@@ -1,0 +1,43 @@
+body {
+	font-family: 'Oswald', 'Calibri', sans-serif;
+	color:DarkSlateGray;
+}
+
+main {
+	width: 40em;
+}
+
+h1 {
+	font-weight: bold;
+	color:MidnightBlue;
+}
+
+h2 {
+	font-weight: 400;
+	color:DarkSlateBlue;
+}
+
+ul#contact {
+	list-style: none;
+}
+
+img#portrait {
+	float: left;
+	height: 10em;
+	padding: 0em 2em 0em 2em;
+}
+
+img#thesis {
+	float: left;
+	height: 10em;
+	padding: 0em 2em 0em 2em;
+}
+
+table#cv {
+	padding-left:1em;
+}
+table#cv td {
+	vertical-align: top;
+	padding-right:1em;
+	padding-bottom:0.5em;
+}
